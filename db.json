@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "said",
+      "email": "saidnnnn@gmail.com",
+      "telefono": 557663226,
+      "empresa": "sassa",
+      "id": 2
+    },
+    {
+      "nombre": "erick",
+      "email": "erick@gm85ail.com",
+      "telefono": 5547457845,
+      "empresa": "erisiña",
+      "id": 3
+    },
+    {
+      "nombre": "luis",
+      "email": "luis@hotmail.com",
+      "telefono": 78987456,
+      "empresa": "luis",
+      "id": 4
+    }
+  ]
+}
