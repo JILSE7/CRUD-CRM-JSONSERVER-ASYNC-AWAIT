@@ -1,0 +1,2 @@
+'Para poder visualizar el proyecto debes instalar JSON-SERVER' y conectarte, ejemplo:
+json-server db.json -p 4000
